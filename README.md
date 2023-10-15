@@ -1,8 +1,7 @@
 # Settings Application
 This Android application developed in Kotlin is a simple demonstration of how to implement a user interface that includes buttons to interact with settings and data persistence. Users can customize certain aspects of the application and see how this data is stored and retrieved in the application.
 
-![jnk](https://github.com/ArtielSry/KotlinAndroidApp_Settings/assets/113340763/a923f709-d7dc-40de-8be6-e312b5b6f46e)
-
+![jj](https://github.com/ArtielSry/KotlinAndroidApp_Settings/assets/113340763/81384a1d-f278-4720-b2b4-f971a20b5c2d)
 
 ## Features
 Settings Buttons: Users can adjust various settings like dark mode or sound
